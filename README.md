@@ -49,4 +49,3 @@ This approach will allow the AI assistant to provide more accurate and personali
 ## Security and Safety
 
 We are committed to implementing robust security measures, especially for the upcoming phone integration, to ensure the system is not exploited and user data remains protected.
-pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
