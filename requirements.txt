@@ -1,0 +1,11 @@
+
+openai
+elevenlabs
+python-dotenv
+Flask>=0.12
+twilio~=6.0.0
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+python-dateutil
+transformers
